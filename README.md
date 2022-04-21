@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**maribelapita/maribelapita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
 
-Here are some ideas to get you started:
+I am a software developer with a technological specialization course, I have a technical degree specializing in information systems technologies and programming carried out at the educational institution Citeforma (Portugal).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Wordpress 
+
+🔭 I’m currently working on Xampp
+
+📫 I can be reached on [Linkedin](https://www.linkedin.com/in/maribelapita/).
+
+<p align="left">
+  <a href="https://github.com/maribelapita"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=maribelapita&show_icons=true&theme=gotham">
+  <a href="https://github.com/maribelapita"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maribelapita&hide=html,css&langs_count=10&layout=compact&theme=gotham">
+</p>
