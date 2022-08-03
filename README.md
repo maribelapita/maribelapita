@@ -3,9 +3,9 @@
 
 I am a software developer with a technological specialization course, I have a technical degree specializing in information systems technologies and programming carried out at the educational institution Citeforma (Portugal).
 
-🌱 I’m currently learning Wordpress 
+🌱 I’m currently learning Java, Springboot Framework.
 
-🔭 I’m currently working on Xampp
+🔭 I’m currently working on Intellij IDEA.
 
 📫 I can be reached on [Linkedin](https://www.linkedin.com/in/maribelapita/).
 
